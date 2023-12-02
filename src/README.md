@@ -95,11 +95,6 @@ highlights:
         icon: code
         details: Your Markdown now support footnotes
         link: https://theme-hope.vuejs.press/guide/markdown/footnote.html
-    
-      - title: MinIO
-        icon: code
-        details: Your Markdown now support footnotes
-        link: https://theme-hope.vuejs.press/guide/markdown/footnote.html
 
   - header: 创新点
     description: 改进点，也是简历上的亮点。
