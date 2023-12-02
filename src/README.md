@@ -1,0 +1,264 @@
+---
+home: true
+icon: home
+title: 首页
+heroImage: /logo.svg
+bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
+bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
+bgImageStyle:
+  background-attachment: fixed
+heroText: 算法扩展电商项目日记
+tagline: 算法转开发的避风港
+actions:
+  - text: 想法
+    icon: lightbulb
+    link: ./demo/
+    type: primary
+
+  - text: 文档
+    link: ./guide/
+
+highlights:
+  - header: 参考项目：电商
+    image: /assets/image/box.svg
+    bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
+    bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
+    highlights:
+      - title: mall
+        link: https://github.com/macrozheng/mall
+      - title: mall-admin-web
+        link: https://github.com/macrozheng/mall-admin-web
+      - title: mall-app-web
+        link: https://github.com/macrozheng/mall-app-web
+
+  - header: 技术栈
+    description: SpringBoot后端+Vue前端
+    image: /assets/image/markdown.svg
+    bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
+    bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
+    bgImageStyle:
+      background-repeat: repeat
+      background-size: initial
+    features:
+      - title: SpringBoot
+        icon: clipboard-check
+        details: Check markdown links
+        link: https://spring.io/projects/spring-boot
+
+      - title: MyBatis
+        icon: box-archive
+        details: Decorate Markdown content with styles
+        link: https://theme-hope.vuejs.press/guide/markdown/hint.html
+
+      - title: ElasticSearch
+        icon: bell
+        details: GFM alert box
+        link: https://theme-hope.vuejs.press/guide/markdown/alert.html
+
+      - title: RabbitMQ
+        icon: table-columns
+        details: Group similar content with tabs and switch them together
+        link: https://theme-hope.vuejs.press/guide/markdown/tabs.html
+
+      - title: Redis
+        icon: code
+        details: Group similar codes with tabs
+        link: https://theme-hope.vuejs.press/guide/markdown/code-tabs.html
+
+      - title: MongoDB
+        icon: align-center
+        details: Let you decide to align paragraphs in the way you like
+        link: https://theme-hope.vuejs.press/guide/markdown/align.html
+
+      - title: Nginx
+        icon: code
+        details: Allow you to add attributes for Markdown content
+        link: https://theme-hope.vuejs.press/guide/markdown/attrs.html
+
+      - title: Docker
+        icon: superscript
+        details: Your Markdown now support superscript and subscript
+        link: https://theme-hope.vuejs.press/guide/markdown/sup-sub.html
+
+      - title: MinIO
+        icon: quote-left
+        details: Your Markdown now support footnotes
+        link: https://theme-hope.vuejs.press/guide/markdown/footnote.html
+
+      - title: Mark Support
+        icon: highlighter
+        details: Mark words and sentences in Markdown
+        link: https://theme-hope.vuejs.press/guide/markdown/mark.html
+
+      - title: Tasklist Support
+        icon: square-check
+        details: Use tasklist in Markdown
+        link: https://theme-hope.vuejs.press/guide/markdown/tasklist.html
+
+      - title: image syntax
+        icon: image
+        details: improve syntax to specify size and color scheme
+        link: https://theme-hope.vuejs.press/guide/markdown/image.html
+
+      - title: Component Support
+        icon: puzzle-piece
+        details: Easily insert components in Markdown
+        link: https://theme-hope.vuejs.press/guide/markdown/component.html
+
+      - title: Chart Support
+        icon: chart-simple
+        details: Display charts in Markdown
+        link: https://theme-hope.vuejs.press/guide/markdown/chartjs.html
+
+      - title: Flowchart Support
+        icon: route
+        details: Create your flowchart in Markdown
+        link: https://theme-hope.vuejs.press/guide/markdown/flowchart.html
+
+      - title: Mermaid Support
+        icon: chart-pie
+        details: Add mermaid diagram in Markdown
+        link: https://theme-hope.vuejs.press/guide/markdown/mermaid.html
+
+      - title: Tex Support
+        icon: square-root-variable
+        details: Markdown now have Tex Support so you can write your formula
+        link: https://theme-hope.vuejs.press/guide/markdown/tex.html
+
+      - title: Include snippet Support
+        icon: fab fa-markdown
+        details: split your docs with different parts and import them in Markdown
+        link: https://theme-hope.vuejs.press/guide/markdown/include.html
+
+      - title: Playground Support
+        icon: code
+        details: You can add playground in Markdown files
+        link: https://theme-hope.vuejs.press/guide/markdown/playground.html
+
+      - title: Vue playground Support
+        icon: fab fa-vuejs
+        details: Show living vue component in playground
+        link: https://theme-hope.vuejs.press/guide/markdown/vue-playground.html
+
+      - title: Code Demo Support
+        icon: laptop-code
+        details: You can insert code demo easily
+        link: https://theme-hope.vuejs.press/guide/markdown/demo.html
+
+      - title: Presentation Support
+        icon: person-chalkboard
+        details: Insert presentation in Markdown files via Reveal.js
+        link: https://theme-hope.vuejs.press/guide/markdown/revealjs/
+
+  - header: 创新点
+    description: 改进点，也是简历上的亮点。
+    image: /assets/image/layout.svg
+    bgImage: https://theme-hope-assets.vuejs.press/bg/5-light.svg
+    bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
+    highlights:
+      - title: 智能客服
+        icon: object-group
+        details: 基于大语言模型实现的智能客服系统，为用户提供使用便利。
+        link: https://theme-hope.vuejs.press/guide/layout/
+
+      - title: 推荐系统
+        icon: circle-half-stroke
+        details: 基于用户数据，使用深度学习实现智能推荐系统，提高用户使用体验。
+        link: https://theme-hope.vuejs.press/guide/interface/darkmode.html
+
+  - header: New features
+    image: /assets/image/features.svg
+    bgImage: https://theme-hope-assets.vuejs.press/bg/1-light.svg
+    bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
+    features:
+      - title: Pageviews and Comments
+        icon: comment-dots
+        details: Start pageview statistics and comment support with Waline
+        link: https://theme-hope.vuejs.press/guide/feature/comment.html
+
+      - title: Article Information
+        icon: circle-info
+        details: Add author, writing date, reading time, word count and other information to your article
+        link: https://theme-hope.vuejs.press/guide/feature/page-info.html
+
+      - title: Article Encryption
+        icon: lock
+        details: Encrypt you articles based on page links, so that only the one you want could see them
+        link: https://theme-hope.vuejs.press/guide/feature/encrypt.html
+
+      - title: Search
+        icon: search
+        details: Support docsearch and client search
+        link: https://theme-hope.vuejs.press/guide/feature/search.html
+
+      - title: Copy Code Blocks
+        icon: copy
+        details: Copy codes with one click in code blocks
+        link: https://theme-hope.vuejs.press/guide/feature/copy-code.html
+
+      - title: Image Preview
+        icon: image
+        details: Support viewing, zooming, sharing your page images like a gallery
+        link: https://theme-hope.vuejs.press/guide/feature/photo-swipe.html
+
+  - header: Blogging
+    description: Create personal blog with theme
+    image: /assets/image/blog.svg
+    bgImage: https://theme-hope-assets.vuejs.press/bg/5-light.svg
+    bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
+    highlights:
+      - title: Blog features
+        icon: blog
+        details: Listing your articles with their dates, tags and categories
+        link: https://theme-hope.vuejs.press/guide/blog/intro.html
+
+      - title: Blog homepage
+        icon: blog
+        details: New blog homepage
+        link: https://theme-hope.vuejs.press/guide/blog/home.html
+
+      - title: Blogger info
+        icon: circle-info
+        details: Customize avatar, name, slogan, introduction and social links
+        link: https://theme-hope.vuejs.press/guide/blog/blogger.html
+
+      - title: Timeline
+        icon: clock
+        details: Read through blog posts in a timeline
+        link: https://theme-hope.vuejs.press/guide/blog/timeline.html
+
+  - header: Advanced
+    description: Advanced features to improve site SEO and user experience
+    image: /assets/image/advanced.svg
+    bgImage: https://theme-hope-assets.vuejs.press/bg/4-light.svg
+    bgImageDark: https://theme-hope-assets.vuejs.press/bg/4-dark.svg
+    highlights:
+      - title: SEO Enhancement
+        icon: dumbbell
+        details: Optimize pages for search engines
+        link: https://theme-hope.vuejs.press/guide/advanced/seo.html
+
+      - title: Sitemap
+        icon: sitemap
+        details: Generate a Sitemap for your site
+        link: https://theme-hope.vuejs.press/guide/advanced/sitemap.html
+
+      - title: Feed
+        icon: rss
+        details: Generate feed to allow users to subscribe it
+        link: https://theme-hope.vuejs.press/guide/advanced/feed.html
+
+      - title: PWA
+        icon: mobile-screen
+        details: Make your site more like an APP
+        link: https://theme-hope.vuejs.press/guide/advanced/pwa.html
+
+copyright: false
+footer: Theme by <a href="https://theme-hope.vuejs.press/" target="_blank">VuePress Theme Hope</a> | MIT Licensed, Copyright © 2019-present Mr.Hope
+---
+
+This is an example of a project homepage. You can place your main content here.
+
+To use this layout, you need to set `home: true` in the page front matter.
+
+For related descriptions of configuration items, please see [Project HomePage Layout Config](https://theme-hope.vuejs.press/guide/layout/home/).
